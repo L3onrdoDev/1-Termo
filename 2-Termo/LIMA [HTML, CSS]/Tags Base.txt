@@ -1,0 +1,10 @@
+<!-- ----- // Anotações Da Aula \\ ----- -->
+
+<!-- <b>Negrito</b> -->
+<!-- <i>Italico</i> -->
+<!-- <br>Quebra Linha<br>  --> 
+<!-- <p>Paragrafo</p> -->
+<!-- <hr>Linhas ao Texto<hr> -->
+<!-- <center>Centraliza o Texto</center> -->
+<!-- <big>Texto "Grande"</big> -->
+<!-- <small>Texto "Pequeno"</small> -->
