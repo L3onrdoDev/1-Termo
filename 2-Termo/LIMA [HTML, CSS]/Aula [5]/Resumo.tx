@@ -1,0 +1,37 @@
+Tamanho
+h1 {
+font-size:40px;
+}
+
+Tipo de fonte
+body {
+font-family:Arial,sans-serif;
+}
+
+Peso
+h1 {
+font-weight:bold;
+}
+
+Alinhamento
+h1 {
+text-align:center;
+}
+
+--------------------------------------
+
+margin
+Representa espaço externo.
+h1 {
+margin:30px;
+}
+
+padding
+Representa espaço interno.
+h1 {
+padding:20px;
+}
+
+-- Fazer um resumo para somativa de amanha, html semantico, 
+Oque Sera Cobrado: color, background-color, font-family, font-size, text-align, mar
+gin, padding.

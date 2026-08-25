@@ -1,0 +1,28 @@
+/* Comentario CSS */
+
+h1 {
+    color: cornflowerblue;
+    padding: 50px;
+    margin: 50px;
+    line-height: 1.5px;
+}
+
+.seletor {
+    color: cornflowerblue;
+}
+.texto-seletor {
+    color: cornflowerblue;
+}
+#texto-id {
+    color: darkorchid;
+}
+
+h2 {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.lorem {
+    padding: 50px;
+    margin: 50px;
+    line-height: -1px;
+}
