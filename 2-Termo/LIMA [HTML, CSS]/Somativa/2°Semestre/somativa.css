@@ -1,0 +1,212 @@
+.cabecario {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(6, 32, 117);
+    font-weight: bolder;
+}
+.titulo {
+    text-align: center;
+    color: aliceblue;
+    font-size: 35px;
+}
+.sub-titulo {
+    text-align: center;
+    color: aliceblue;
+}
+.nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.titulo-main {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.imagem-trabalho {
+    width: 350px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-titulo {
+    text-align: center;
+}
+.p-titulo2 {
+    text-align: center;
+}
+
+.sub-titulo2 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo {
+    text-align: center;
+}
+.p-sub-titulo2 {
+    text-align: center;
+}
+.p-sub-titulo3 {
+    text-align: center;
+}
+.sub-titulo3 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+
+.sub-titulo4 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo4 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo5 {
+    text-align: center;
+}
+.p-sub-titulo6 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo7 {
+    text-align: center;
+}
+.p-sub-titulo8 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo9 {
+    text-align: center;
+}
+.p-sub-titulo10 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo11 {
+    text-align: center;
+}
+
+.titulo-main2 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.imagem-trabalhador {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagem-trabalhador2 {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagem-trabalhador3 {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-sub-titulo12 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo13 {
+    text-align: center;
+}
+.p-sub-titulo14 {
+    text-align: center;
+}
+.p-sub-titulo15 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo16 {
+    text-align: center;
+}
+.p-sub-titulo17 {
+    text-align: center;
+}
+.p-sub-titulo18 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p-sub-titulo19 {
+    text-align: center;
+}
+.p-sub-titulo20 {
+    text-align: center;
+}
+
+.titulo-main3 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.imagem-sistemavendas {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagem-aplicativoempresarial {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagem-siteinstitucional {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p21 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p22 {
+    text-align: center;
+}
+.p23 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p24 {
+    text-align: center;
+    color: rgb(6, 32, 117);
+}
+.p25 {
+    text-align: center;
+}
+
+.section-1 {
+    background-color: rgb(230, 227, 227);
+}
+.section-2 {
+    background-color: rgb(230, 227, 227);
+}
+.section-3 {
+    background-color: rgb(230, 227, 227);
+}
+.section-4 {
+    background-color: rgb(230, 227, 227);
+}
+.section-5 {
+    background-color: rgb(230, 227, 227);
+}
+.section-6 {
+    background-color: rgb(230, 227, 227);
+}
+
+.body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
