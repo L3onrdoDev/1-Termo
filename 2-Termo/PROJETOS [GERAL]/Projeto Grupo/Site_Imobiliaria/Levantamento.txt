@@ -1,0 +1,25 @@
+~~~~~~~~~~~~~~~ Pezinho Imobiliária ~~~~~~~~~~~~~~~~
+- Pagina Inicial
+1. Menu Suspenso: Área do proprietário, Área do inquilino, Fale Conosco, Quero Anunciar, Quem Somos, Numero de vendas, Numero Serviços Administrativos.
+2. Imagem de fundo.
+3. Botões: Comprar, Alugar, Área de pesquisa, Selection (Cidade, Tipo de imovel e Valor Min e Max.), Buscar.
+
+- 2° Pagina (Scroll)
+1. Texto: Em Alta!
+2. Carrosel de imagens de casas (372x228).
+3. Informações da casa, descrição, local, valor, venda ou alugel.
+
+- Cores Principais
+1. Vermelho Escuro.
+2. Branco.
+
+- Pagina De Venda
+1. Imagens Imovel.
+2. Sobre/Descricão Imovel.
+3. Titulo Publicação Venda.
+4. Endereço.
+5. Informações De Metros, Quartos, Banheiros, etc. (Abre um modal de informações: Pretenção 'Venda ou Aluguel', Nome, Celular, E-Mail e Mensagem.)
+6. Valor, Valores Aluguel/Mes.
+7. Botões para solicitar Mais Informações, Agendar uma visita.
+8. Localização Google Maps.
+9. Carrosel de imovels no final.
